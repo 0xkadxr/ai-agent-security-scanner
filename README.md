@@ -1,4 +1,4 @@
-![CI](https://github.com/kadirou12333/ai-agent-security-scanner/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/kadirou12333/ai-agent-security-scanner/actions/workflows/ci.yml/badge.svg?branch=master)
 
 # AI Agent Security Scanner
 
